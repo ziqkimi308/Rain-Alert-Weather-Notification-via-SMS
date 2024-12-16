@@ -1,3 +1,14 @@
+"""
+********************************************************************************
+* Project Name:  Rain Alert Weather Notification via SMS
+* Description:   Rain Alert is a Python-based application that uses the Open Meteo API to fetch weather data and notifies you via SMS if there’s a chance of rain. 
+* Author:        ziqkimi308
+* Created:       2024-12-16
+* Updated:       2024-12-16
+* Version:       1.0
+********************************************************************************
+"""
+
 import requests
 from twilio.rest import Client
 
