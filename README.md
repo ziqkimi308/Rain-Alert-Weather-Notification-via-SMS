@@ -15,7 +15,7 @@
 
 ### Screenshots:
 
-![Screenshot_2024-12-16-08-40-58-36_0ce57feeccaa51fb7deed04b4dbda23ccc5](https://github.com/user-attachments/assets/4c3d43ec-b892-464f-bd33-18a71da93b85)
+<img src="https://github.com/user-attachments/assets/4c3d43ec-b892-464f-bd33-18a71da93b85" width="270">
 
 ---
 
