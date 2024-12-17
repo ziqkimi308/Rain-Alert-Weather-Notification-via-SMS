@@ -1,4 +1,4 @@
-# Rain Alert Weather Notification via SMS
+# Rain Alert Weather Notifier via SMS
 
 - Rain Alert is a Python-based application that uses the Open Meteo API to fetch weather data and notifies you via SMS if there’s a chance of rain. The app integrates with Twilio for sending SMS alerts, ensuring you’re always prepared for rainy weather.
 
